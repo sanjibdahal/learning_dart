@@ -8,5 +8,8 @@ void main() {
   print(a * b);
 
   //To create a dart project
+  //dart create <project_name>
+  //cd <project_name>
+  //dart run
   
 }
